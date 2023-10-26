@@ -1,0 +1,19 @@
+{
+  "name": "episode02",
+  "version": "1.0.0",
+  "description": "This is part 1, basics of React",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Harsh Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.1",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
