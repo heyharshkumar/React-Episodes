@@ -1,0 +1,19 @@
+{
+  "name": "episode04",
+  "version": "1.0.0",
+  "description": "Explore the React",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Harsh Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

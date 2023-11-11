@@ -1,0 +1,10 @@
+#Ignore node_module folder
+node_modules/
+
+#or Node artifact files
+dist/
+
+
+.parcel-cache
+
+
